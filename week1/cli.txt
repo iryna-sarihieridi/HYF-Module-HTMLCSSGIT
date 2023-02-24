@@ -1,0 +1,4 @@
+1. mkdir + add the dot at the beginning of the name, ls -a for display; 
+2. mkdir -p parent_dir/child_dir/nested_child_dir; 
+3. first message 
+   second message
